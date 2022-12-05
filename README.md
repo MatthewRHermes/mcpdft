@@ -1,9 +1,10 @@
-Multi-configuration pair-density functional theory module for PySCF
+ARCHIVED: Multi-configuration pair-density functional theory module for PySCF
 =========================
 
-2022-07-08
+Note
+-------
 
-* Version 1.0
+* As of 2022-12-05, the contents of this repository have been transferred to [pyscf-forge]
 
 Install
 -------
@@ -80,3 +81,4 @@ Features
 [comment]: <> (Code hyperlinks)
 [examples/mcpdft/02-hybrid_functionals.py]: examples/mcpdft/02-hybrid_functionals.py
 [custom functional parser]: https://github.com/pyscf/pyscf/blob/master/examples/dft/24-custom_xc_functional.py
+[pyscf-forge]: https://github.com/pyscf/pyscf-forge
